@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any JavaScript project
 - 📫 How to reach me 
 email: clayton.balzer@gmail.com 
-Discord link by request.
+
 
 <!---
 Techn0mancer-X/Techn0mancer-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 - 🌱 I’m currently working with the MERN stack
 - 💞️ I’m looking to collaborate on any JavaScript project
 - 📫 How to reach me 
-email: clayton.balzer.dev@gmail.com 
+email: c.balzer.dev@proton.me
 
 
 <!---

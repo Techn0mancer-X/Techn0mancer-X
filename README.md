@@ -1,9 +1,9 @@
 - 👋 Hello, my name is Clayton Balzer
 - 👀 I’m interested in FullStack Web Development
-- 🌱 I’m currently working with the MERN stack
+- 🌱 I’m currently working with the Next.js and Wordpress, PHP at the moment.
 - 💞️ I’m looking to collaborate on any JavaScript project
 - 📫 How to reach me 
-email: c.balzer.dev@proton.me
+     email: c.balzer.dev@proton.me
 
 
 <!---
